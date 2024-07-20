@@ -25,14 +25,21 @@ https://github.com/user-attachments/assets/ce8100cb-36e9-46df-9dec-94f6c424cd8e
 - Run the following command to clone the repository:
   ```bash
   git clone https://github.com/YasinSalehi06/instagram-reels-downloader.git
+
+https://github.com/user-attachments/assets/c3a4dd3a-d730-4e5b-9399-c73799497dd2
+
 **2. Install dependencies:**
 - Run the following command to install the required libraries:
   ```bash
   pip install -r requirements.txt
+
+https://github.com/user-attachments/assets/41f7a76f-8019-41ac-b946-7e9e26dae08a
+
 **3. Run the script:**
-- Execute ```python instagram_download_reels.py``` in your terminal or command prompt.
+- Execute ```python scrape.py``` in your terminal or command prompt.
 - Follow the prompts in your command prompt or terminal to log in to Instagram and start downloading reels.
+
+https://github.com/user-attachments/assets/dba83c06-b07c-43d2-97c8-4e83bd2a72e4
+
 ## Contributions
 - Feel free to contribute to this project! if you have suggestions, improvements, or bug reports, please feel free to submit issues or pull requests.  Your feedback and improvements are welcome!
-
-
