@@ -22,7 +22,7 @@
 - Open command prompt
 - Run the following command to clone the repository:
   ```bash
-  git clone https://github.com/riad-azz/instagram-video-downloader.git
+  git clone https://github.com/YasinSalehi06/instagram-reels-downloader.git
   
 **2. Install dependencies:**
 - Run the following command to install the required libraries:
