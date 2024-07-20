@@ -9,13 +9,13 @@
 
 ## Requirements
 - **Python 3.x:** Ensure you have Python installed.
+- **ChromeDriver:** Usually not required, but in case it is, download it from [here](https://googlechromelabs.github.io/chrome-for-testing/).
 - **Selenium:** Install it using:
   ```bash
   pip install selenium
 - **Requests:** Install it using:
   ```bash
   pip install requests
-- **ChromeDriver:** Usually not required, but in case it is, download it from [here](https://googlechromelabs.github.io/chrome-for-testing/).
 
 ## Getting started
 **1. Clone the repository:**
@@ -33,7 +33,7 @@
 - Execute ```python instagram_download_reels.py``` in your terminal or command prompt.
 - Follow the prompts in your command prompt or terminal to log in to Instagram and start downloading reels.
 
-## Contributions:
+## Contributions
 - Feel free to contribute to this project! if you have suggestions, improvements, or bug reports, please feel free to submit issues or pull requests.  Your feedback and improvements are welcome!
 
 
