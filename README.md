@@ -1,5 +1,5 @@
-# Instagram Reels Downloader
-**Instagram reels downloader** is a Python script that makes it easy to mass/bulk download videos from Instagram Reels. Using Selenium WebDriver, this script automates the process of logging into Instagram and saving your favorite reels directly to your device.
+# Instagram Reels Scraper
+**Instagram reels Scraper** is a Python script that makes it easy to mass/bulk download videos from Instagram Reels. Using Selenium WebDriver, this script automates the process of logging into Instagram and saving your favorite reels directly to your device.
 
 https://github.com/user-attachments/assets/ce8100cb-36e9-46df-9dec-94f6c424cd8e
 
@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/ce8100cb-36e9-46df-9dec-94f6c424cd8e
 - Open command prompt
 - Run the following command to clone the repository:
   ```bash
-  git clone https://github.com/YasinSalehi06/instagram-reels-downloader.git
+  git clone https://github.com/YasinSalehi06/instagram-reels-scraper.git
 
 https://github.com/user-attachments/assets/c3a4dd3a-d730-4e5b-9399-c73799497dd2
 
