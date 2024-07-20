@@ -1,5 +1,5 @@
 # Instagram Reels Downloader
-**Instagram reels downloader** is a Python script that automates the downloading of videos from Instagram Reels. Using Selenium WebDriver, this script handles Instagram login and saves reels videos to your device.
+**Instagram reels downloader** is a Python script that makes it easy to mass/bulk download videos from Instagram Reels. Using Selenium WebDriver, this script automates the process of logging into Instagram and saving your favorite reels directly to your device.
 
 ## Features
 - **Automatic login:** Automates Instagram login, so you don’t have to do it manually.
