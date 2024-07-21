@@ -10,9 +10,9 @@ https://github.com/user-attachments/assets/196a4d43-75bc-411e-96e1-1ec92edaffe6
 - **Flexible:** Easy to customize and adapt for different needs.
 
 ## Requirements
-- **Python 3.x:** Ensure you have Python installed.
+- **Python 3.x:** Ensure you have Python installed. [here](https://www.python.org/downloads/)
 - **ChromeDriver:** Usually not required, but in case it is, download it from [here](https://googlechromelabs.github.io/chrome-for-testing/).
-- **Git:** Ensure you have Git installed. [Here](https://git-scm.com/download/win)
+- **Git:** Ensure you have Git installed. [here](https://git-scm.com/download/win)
 - **Selenium:** Install it using:
   ```bash
   pip install selenium
