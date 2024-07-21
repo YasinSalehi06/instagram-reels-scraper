@@ -1,7 +1,7 @@
 www.yasinsalehi.com
 
 # Instagram Reels Scraper
-**Instagram reels Scraper** is a Python script that makes it easy to mass/bulk download videos from Instagram Reels. Using Selenium WebDriver, this script automates the process of logging into Instagram and saving your favorite reels directly to your device.
+**Instagram reels Scraper** is a Python script that makes it easy to mass/bulk download videos from Instagram Reels. Using Selenium ChromeDriver, this script automates the process of logging into Instagram and saving your favorite reels directly to your device.
 
 https://github.com/user-attachments/assets/196a4d43-75bc-411e-96e1-1ec92edaffe6
 
